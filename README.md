@@ -7,7 +7,6 @@ Continuously developing my skills in technology and data.
 ### 📫 Connect with me
 
 - [LinkedIn](https://linkedin.com/in/igornsferreira)  
-- [GitHub](https://github.com/igornsferreira)  
 - [E-mail](mailto:igornsferreira@gmail.com)
 
 ---
